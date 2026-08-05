@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="1770" height="889" alt="X平台卡片_大理石浮雕Logo" src="https://github.com/user-attachments/assets/5916ed79-4c0d-4276-ac48-3853afe08d19" />
+
 <!--
 **Kai-Suger/Kai-Suger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
